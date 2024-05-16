@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/JetTurbine.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7cf19c5a5a9cef84ea89b16a8d89fb3a, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f0d59951da1b721499759acc3e9b8949, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 70311eef80bf81d408dfc12fb3a215c4, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: f05d9b7c5384037468526ed6c541a826, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c3ab9eba9d106be4d969a17cd7d97c0e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d67c21839aa3d97468e4df74233beeab, type: 2}
